@@ -3,9 +3,9 @@ Once again, I would like to say hello to the world!
 
 I'll be using Python today to begin this journey.
 
-I'm creating this software to help me in my learning process as a software
+I'm creating this to document my personal journey in programming.
 
-Here is my demo on YouTube. I posted unlisted to my music channel. Enjoy the music :)
+Here is the demo on YouTube. I posted unlisted to my channel. Enjoy the music :)
 
 [Software Demo Video](https://youtu.be/1Qcc2Et5oz0)
 
